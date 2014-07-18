@@ -15,7 +15,7 @@
     <property name="version">1.0</property>
     <property name="copyright" translatable="yes">2014 - Copyright</property>
     <property name="comments" translatable="yes">Visor de imágenes ligero para sistemas operativos Gnu/Linux desarrollado en Python GTK3 </property>
-    <property name="website">www.genesisvargasj.com</property>
+    <property name="website">http://www.genesisvargasj.com</property>
     <property name="authors">Genesis Vargas J</property>
     <property name="artists">Genesis Vargas J</property>
     <property name="logo">imagenes/logo.png</property>
